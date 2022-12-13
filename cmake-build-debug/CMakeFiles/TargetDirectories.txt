@@ -1,0 +1,3 @@
+C:/Users/omarg/Desktop/Other12.6/FilesAssig/cmake-build-debug/CMakeFiles/untitled7.dir
+C:/Users/omarg/Desktop/Other12.6/FilesAssig/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omarg/Desktop/Other12.6/FilesAssig/cmake-build-debug/CMakeFiles/rebuild_cache.dir
